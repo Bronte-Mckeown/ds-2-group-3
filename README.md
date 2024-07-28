@@ -11,6 +11,7 @@ Welcome to the repository for our group assignment! To ensure smooth collaborati
 - **scripts/**: Python scripts.
 - **results/**: Output files, including models, evaluation metrics, and visualizations.
 - **docs/**: Documentation related to the project.
+- **submission/**: Where we will upload final documents for submission (i.e., report).
 - **README.md**: Overview of the project and guidelines (this file).
 
 ### 2. Branching Strategy
