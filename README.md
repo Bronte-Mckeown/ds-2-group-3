@@ -24,7 +24,7 @@ Welcome to the repository for our group assignment! To ensure smooth collaborati
 ### 3. Commit Messages
 
 - Write clear and concise commit messages.
-- Follow the convention: `Type: Short Description (fixes issue# if applicable)`
+- Try to follow the convention: `Type: Short Description (fixes issue# if applicable)`
   - **Types**: `feat` (new feature), `fix` (bug fix), `docs` (documentation), `style` (formatting), `refactor` (code restructuring), `test` (adding tests), `chore` (miscellaneous).
 
 ### 4. Code Quality
