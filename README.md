@@ -4,6 +4,7 @@
 
 - EDA_Stats_Models.ipynb contains all of the code for this assignment, including data fetching, cleaning, EDA and machine learning models.
 - The report is in the **submission** folder
+- The results (i.e., figures) are in **results/**
 - Raw data is in **data/source** and cleaned data is in **data/deriv**
 - Instructions on how to use kaggle API are in the jupyter notebook
 
