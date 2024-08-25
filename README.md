@@ -2,11 +2,12 @@
 
 ## Information for marker
 
-- EDA_Stats_Models.ipynb contains all of the code for this assignment, including data fetching, cleaning, EDA and machine learning models.
-- The report is in the **submission** folder
+- EDA_Stats_Models.ipynb contains all of the code for this assignment, including data fetching, cleaning, EDA and machine learning models
+- The report and activity log is in the **submission** folder
 - The results (i.e., figures) are in **results/**
-- Raw data is in **data/source** and cleaned data is in **data/deriv**
+- Raw data, fetched using Kaggle API, is in **data/source**
 - Instructions on how to use kaggle API are in the jupyter notebook
+- It may be necessary to pip install some of the libraries, as indicated at the top of the notebook
 
 ## Repository Rules and Guidelines
 
@@ -39,7 +40,6 @@ Welcome to the repository for our group assignment! To ensure smooth collaborati
 ### 5. Data Management
 
 - **data/raw/**: Contains raw, unprocessed data obtained directly from the sources.
-- **data/processed/**: Contains data that has been cleaned and processed.
 
 ### 6. Pull Requests
 
